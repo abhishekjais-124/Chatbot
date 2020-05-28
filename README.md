@@ -1,5 +1,6 @@
 # Chatbot
-This project is a chatbot made using many python libraries and used tkinter for the graphics support.
+This is a chatbot and i named him "MEDGURU".
+This project is made using many python libraries and used tkinter for the graphics support.
 The main theme of this project is to solve issue regarding the medical environment. 
 
 You can ask him any medical related questions to it and also about any medical related term.
